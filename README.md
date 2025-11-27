@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kareem Marwan</h1>
+<h3 align="center">Full Stack JavaScript Developer</h3>
 
-<!--
-**kareemmarwan/kareemmarwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 I work on Web & Mobile Applications
+- 🌱 Currently learning Web3 & Blockchain
+- 💬 Ask me about React, Node.js, React Native
+- 📫 Email: kareemmarwan1995@gmail.com
+- 🌍 From Gaza, Palestine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,nextjs,tailwind,mongodb,firebase,git" />
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemmarwan&show_icons=true&theme=default)
+
+---
+
+### 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/kareem-marwan-949646b2
+- GitHub: https://github.com/kareemmarwan
+- Email: kareemmarwan1995@gmail.com
